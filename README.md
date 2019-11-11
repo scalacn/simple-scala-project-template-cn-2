@@ -1,0 +1,1 @@
+# simple-scala-project-template-cn-2-
